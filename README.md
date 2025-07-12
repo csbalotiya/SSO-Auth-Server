@@ -2,6 +2,8 @@
 
 A comprehensive OAuth 2.0 and OpenID Connect (OIDC) authorization server built with Spring Boot and Spring Security OAuth2 Authorization Server.
 
+*For Enduser/Client App* - *https://github.com/csbalotiya/SSO-Client-App-1* 👥
+
 ## 🚀 Features
 
 - **OAuth 2.0 & OpenID Connect 1.0** compliant authorization server
