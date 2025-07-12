@@ -345,17 +345,3 @@ logging:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and questions:
-
-- **Email**: support@yourcompany.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sso-auth-server/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/sso-auth-server/wiki)
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: July 2025  
-**Maintainer**: Your Name <your.email@company.com>
